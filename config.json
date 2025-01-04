@@ -1,0 +1,4 @@
+{
+    "endpoint": "https://laboratorioai900-djxwk.eastus.inference.ml.azure.com/score",
+    "api_key": "<sua-chave-de-autenticacao>"
+}
